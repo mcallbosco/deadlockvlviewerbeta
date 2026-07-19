@@ -1,0 +1,16 @@
+{
+  "meta": {
+    "language": "norwegian",
+    "friendly_name": "Norwegian",
+    "native_name": "Norsk",
+    "country_code": "NO",
+    "flag_emoji": "🇳🇴",
+    "flag_emoji_unicode": "U+1F1F3 U+1F1F4",
+    "source_file": "citadel_generated_vo_norwegian.txt",
+    "generated_at": "2026-07-06T17:25:11.155765",
+    "entry_count": 0,
+    "collision_count": 0,
+    "exact_override_count": 0
+  },
+  "lines": {}
+}

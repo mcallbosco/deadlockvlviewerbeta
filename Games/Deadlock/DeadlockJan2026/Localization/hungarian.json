@@ -1,0 +1,16 @@
+{
+  "meta": {
+    "language": "hungarian",
+    "friendly_name": "Hungarian",
+    "native_name": "Magyar",
+    "country_code": "HU",
+    "flag_emoji": "🇭🇺",
+    "flag_emoji_unicode": "U+1F1ED U+1F1FA",
+    "source_file": "citadel_generated_vo_hungarian.txt",
+    "generated_at": "2026-07-06T17:25:10.673771",
+    "entry_count": 0,
+    "collision_count": 0,
+    "exact_override_count": 0
+  },
+  "lines": {}
+}

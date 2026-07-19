@@ -1,0 +1,60 @@
+{
+  "site": {
+    "name": "Apex Voice Line Viewer",
+    "gameName": "Apex Legends",
+    "tagline": "An easy-to-browse collection of Apex voice lines and conversations",
+    "navigation": [
+      { "href": "/characters", "label": "Characters" },
+      { "href": "/conversations", "label": "Conversations" },
+      { "href": "/voicelines", "label": "Voice Lines" }
+    ]
+  },
+  "ui": {
+    "showNewVoicelineIndicators": true
+  },
+  "homepage": {
+    "infoBox": {
+      "title": "About This Site",
+      "mainDescription": "This site provides an easy way to browse and search through Apex's audio content, separated into two categories:",
+      "categories": [
+        {
+          "name": "Conversations",
+          "description": "Characters interacting with each other in sequence, forming complete dialogues."
+        },
+        {
+          "name": "Voice Lines",
+          "description": "Individual character lines, including combat callouts, ability usage, and character-specific reactions."
+        }
+      ],
+      "sections": [
+        {
+          "title": "Transcription Accuracy",
+          "content": "Since I was unable to find a way to extract the captions in a way which lets me match them with voicelines, these captions are generared with Whisper. There will be mistakes, but unfortunately the amount of voicelines do not allow me to manually check and correct them. Sorry about that."
+        },
+        {
+          "title": "Content Limitations",
+          "content": "Due to free hosting limitations, this site only includes voice lines that may be related to lore or are potentially interesting. If you know of lore-relevant or interesting voice lines that are missing, please let me know on Discord (Mcall)"
+        }
+      ],
+      "footer": "Browse by character below or use the navigation menu to explore all conversations and voice lines."
+    }
+  },
+  "footer": {
+    "mainText": "Apex Conversations Viewer",
+    "copyright": "Respawn, the Respawn logo, Apex, and the Apex logo are trademarks and/or registered trademarks of Respawn Entertainment. Apex Voiceline Viewer is a fan website and not associated with Respawn.",
+    "companyLink": "https://www.respawn.com/",
+    "companyLinkText": "  Respawn's Official Site",
+
+    "designCredit": "Designed by Mcall",
+    "designerLink": "https://mcallbos.co",
+    "donationText": "Buy me a coffee",
+    "donationLink": "https://ko-fi.com/mcallbosco"
+  },
+  "audioFolder": "Games/Apex/S25/Audio",
+  "portraitDirectory": "Games/Apex/icons",
+  "voicelineFile": "Games/Apex/S25/VoiceLines.json",
+  "conversationsFile": "Games/Apex/S25/Convos.json",
+  "voicelinePlayCounterId": "VLVVLApexPlayed",
+  "opengraphIcon": "Games/Apex/icons/apex.png",
+  "favicon": "Games/Apex/icons/apex.ico"
+}

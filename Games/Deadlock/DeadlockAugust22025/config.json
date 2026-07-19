@@ -1,0 +1,164 @@
+{
+  "site": {
+    "name": "Deadlock Voice Line Viewer",
+    "gameName": "Deadlock",
+    "tagline": "An easy-to-browse collection of Deadlock voice lines and conversations",
+    "navigation": [
+      {
+        "href": "/characters",
+        "label": "Characters"
+      },
+      {
+        "href": "/conversations",
+        "label": "Conversations"
+      },
+      {
+        "href": "/voicelines",
+        "label": "Voice Lines"
+      }
+    ],
+    "baseUrl": "https://deadlock.vlviewer.com"
+  },
+  "homepage": {
+    "infoBox": {
+      "title": "About This Site",
+      "mainDescription": "This site provides an easy way to browse and search through Deadlock's audio content, separated into two categories:",
+      "categories": [
+        {
+          "name": "Conversations",
+          "description": "Characters interacting with each other in sequence, forming complete dialogues."
+        },
+        {
+          "name": "Voice Lines",
+          "description": "Individual character lines, including combat callouts, ability usage, and character-specific reactions."
+        }
+      ],
+      "sections": [
+        {
+          "title": "Transcription Accuracy",
+          "content": "Since Deadlock doesn't yet have official captions, the transcriptions on this site are community-created and may not be 100% accurate. If you notice any incorrect captions, please consider submitting a correction via a pull request to:",
+          "link": "https://github.com/mcallbosco/Deadlock-Transcriptions",
+          "linkText": "github.com/mcallbosco/DLSoundProjectUtilities"
+        },
+        {
+          "title": "Content Limitations",
+          "content": "Due to free hosting limitations, this site only includes voice lines that may be related to lore or are potentially interesting. If you know of lore-relevant or interesting voice lines that are missing, please submit an issue at:",
+          "link": "https://github.com/mcallbosco/DLSoundProjectUtilities/issues",
+          "linkText": "github.com/mcallbosco/DLSoundProjectUtilities/issues"
+        }
+      ],
+      "footer": "Browse by character below or use the navigation menu to explore all conversations and voice lines."
+    }
+  },
+  "footer": {
+    "mainText": "Deadlock Conversations Viewer",
+    "copyright": "Valve, the Valve logo, Steam, the Steam logo, Deadlock, and the Deadlock logo are trademarks and/or registered trademarks of Valve Corporation. Deadlock Conversations Viewer is a fan website and not associated with Valve.",
+    "companyLink": "https://www.valvesoftware.com/en/",
+    "designCredit": "Designed by Mcall",
+    "designerLink": "https://mcallbos.co",
+    "donationText": "Buy me a coffee",
+    "donationLink": "https://ko-fi.com/mcallbosco",
+    "resources": [
+      {
+        "label": "Source 2 Viewer",
+        "url": "https://valveresourceformat.github.io/",
+        "description": "Explore the game files."
+      },
+      {
+        "label": "Deadlock Wiki",
+        "url": "https://deadlock.wiki/",
+        "description": "The wiki has some really good documentation on the game in it's current and old state."
+      },
+      {
+        "label": "Neon Prime Voice Lines",
+        "url": "https://www.youtube.com/watch?v=kxrf7KplbfU",
+        "description": "Source code and data for this project."
+      },
+      {
+        "label": "Neon Prime Music",
+        "url": "https://www.youtube.com/watch?v=TCPnNCgqW4Y",
+        "description": "Music from Neon Prime"
+      }
+    ]
+  },
+  "audioFolder": "Games/Deadlock/DeadlockAugust22025/Audio",
+  "portraitDirectory": "Games/Deadlock/Icons",
+  "voicelineFile": "Games/Deadlock/DeadlockAugust22025/all_voicelines.json",
+  "conversationsFile": "Games/Deadlock/DeadlockAugust22025/all_conversations.json",
+  "coverageFile": "Games/Deadlock/DeadlockAugust22025/coverage.json",
+  "showSttLocalizationFallbackIndicator": true,
+  "voicelinePlayCounterId": "VLVVLDeadlockPlayed",
+  "opengraphIcon": "Games/Deadlock/Icons/deadlock.png",
+  "favicon": "Games/Deadlock/Icons/deadlock.ico",
+  "faviconPng": "Games/Deadlock/Icons/deadlock.png",
+  "appleTouchIcon": "Games/Deadlock/Icons/deadlock.png",
+  "ui": {
+    "showNewVoicelineIndicators": true
+  },
+  "modules": {
+    "pageBackground": "snow-floor",
+    "characterCard": "deadlock-blemished-wobbly",
+    "enableStaples": true,
+    "characterCardVoicelineCard": {
+      "module": "voiceline-masked",
+      "props": {
+        "maskColor": "#2E443D",
+        "maskScale": 1.0,
+        "edgeScale": 1.5,
+        "sideEdgeScale": 1.2
+      }
+    },
+    "characterCardVoicelineStatCards": {
+      "module": "voiceline-masked",
+      "props": {
+        "maskColor": "#39584B"
+      }
+    },
+    "blogBanner": "deadlock-blemished",
+    "characterSidebar": "deadlock-blemished",
+    "conversationBubbles": {
+      "module": "deadlock-blemished"
+    },
+    "conversationContainer": "transparent",
+    "conversationTitle": "transparent"
+  },
+  "characterSidebarConfig": "Games/Deadlock/character-sidebar-config.json",
+  "characterSidebarGlobalStyle": {
+    "centered": true,
+    "removeBackground": true
+  },
+  "loadingGif": "Games/Deadlock/Icons/loading.gif",
+  "loadingGifScale": 0.75,
+  "loadingText": "Counjuring",
+  "hideLoadingText": true,
+  "theme": {
+    "colors": {
+      "primary": {
+        "400": "#5eaa8a",
+        "500": "#4a9373",
+        "600": "#3d7a5f",
+        "700": "#2f6049",
+        "800": "#224737",
+        "900": "#152e26"
+      },
+      "gray": {
+        "50": "#f5f5f5",
+        "100": "#e5e5e5",
+        "200": "#d3d4d6",
+        "300": "#afb1b3",
+        "400": "#96989b",
+        "500": "#787b7e",
+        "600": "#5d6164",
+        "700": "#4a4d51",
+        "800": "#373b3f",
+        "900": "#25292e",
+        "950": "#101419"
+      }
+    },
+    "backgrounds": {
+      "header": "#1a2520",
+      "footer": "#1a2520",
+      "page": "#1f2020"
+    }
+  }
+}

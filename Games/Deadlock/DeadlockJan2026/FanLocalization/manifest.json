@@ -1,0 +1,30 @@
+{
+  "generated_at": "2026-07-19T23:11:52.229Z",
+  "languages": [
+    {
+      "language": "russian_fan",
+      "friendly_name": "Russian (Fan)",
+      "native_name": "Русский (Фан)",
+      "country_code": "RU",
+      "flag_emoji": "🇷🇺",
+      "output_file": "russian_fan.json",
+      "entry_count": 15481,
+      "tooltip_text": "Fan translation by Торфусняк",
+      "base_language": "russian",
+      "credits": [
+        {
+          "name": "Telegram",
+          "link": "https://t.me/tofamode"
+        },
+        {
+          "name": "YouTube",
+          "link": "https://www.youtube.com/@Torfusdeadlock"
+        },
+        {
+          "name": "Discord: yukinnon",
+          "link": null
+        }
+      ]
+    }
+  ]
+}

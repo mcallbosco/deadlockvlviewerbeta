@@ -1,0 +1,42 @@
+{
+  "site": {
+    "name": "Overwatch Voice Line Viewer",
+    "gameName": "Overwatch",
+    "baseUrl": "https://overwatch.vlviewer.com",
+    "tagline": "An easy-to-browse collection of Overwatch voicelines and conversations. Includes Season 1 content.",
+    "navigation": [
+      { "href": "/characters", "label": "Characters" },
+      { "href": "/conversations", "label": "Conversations" },
+      { "href": "/voicelines", "label": "Voice Lines" }
+    ]
+  },
+  "homepage": {
+    "infoBox": {
+      "title": "About This Site",
+      "mainDescription": "This site provides an easy way to browse and search through Overwatch's Voice Lines and in game conversations. Includes Season 20 content.",
+      "footer": "Browse by character below or use the navigation menu to explore all conversations and voice lines."
+    } 
+  },
+  "footer": {
+    "mainText": "Overwatch Voice Line Viewer",
+    "copyright": "Overwatch, the Overwatch logo, Blizzard, and the Blizzard logo are trademarks and/or registered trademarks of Activision. Overwatch Conversations Viewer is a fan website and not associated with Activision.",
+    "companyLink": "https://www.activision.com/",
+    "companyLinkText": "  Activision's Official Site",
+    "designCredit": "Designed by Mcall.",
+    "designerLink": "https://mcallbos.co",
+    "donationText": "Buy me a coffee",
+    "donationLink": "https://ko-fi.com/mcallbosco"
+  },
+  "portraitDirectory": "Games/Overwatch/Icons",
+  "audioFolder": "Games/Overwatch/2026S1/Audio",
+  "voicelineFile": "Games/Overwatch/2026S1/all_voicelines.json",
+  "voicelinePlayCounterId": "VLVVLOverwatchPlayed",
+  "conversationsFile": "Games/Overwatch/2026S1/all_conversations.json",
+  "disableDownloads": true,
+  "hideFilenames": true,
+  "roundedPortraits": true,
+  "opengraphIcon": "Games/Overwatch/Icons/OverwatchIcon.png",
+  "favicon": "Games/Overwatch/Icons/OverwatchIcon.ico",
+  "modules": {
+  }
+}

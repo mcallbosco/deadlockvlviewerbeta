@@ -1,0 +1,514 @@
+{
+   "abrams": {
+    "title": "",
+    "items": [
+        {
+          "type": "button",
+          "content": "Wiki Page",
+          "url": "https://deadlock.wiki/Abrams"
+        }
+      ]
+   },
+   "anyhero": {
+    "title": "",
+    "items": []
+   },
+   "bebop": {
+    "title": "",
+    "items": [
+        {
+          "type": "button",
+          "content": "Wiki Page",
+          "url": "https://deadlock.wiki/Bebop"
+        }
+      ]
+   },
+   "billy": {
+    "title": "",
+    "items": [
+        {
+          "type": "button",
+          "content": "Wiki Page",
+          "url": "https://deadlock.wiki/Billy"
+        }
+      ]
+   },
+   "boho": {
+    "title": "",
+    "items": []
+   },
+   "cadence": {
+    "title": "",
+    "items": []
+   },
+   "calico": {
+    "title": "",
+    "items": [
+        {
+          "type": "button",
+          "content": "Wiki Page",
+          "url": "https://deadlock.wiki/Calico"
+        }
+      ]
+   },
+   "doorman": {
+    "title": "",
+    "items": [
+        {
+          "type": "button",
+          "content": "Wiki Page",
+          "url": "https://deadlock.wiki/The_Doorman"
+        }
+      ]
+   },
+   "drifter": {
+    "title": "",
+    "items": [
+        {
+          "type": "button",
+          "content": "Wiki Page",
+          "url": "https://deadlock.wiki/Drifter"
+        }
+      ]
+   },
+   "druid": {
+    "title": "",
+    "items": []
+   },
+   "dynamo": {
+    "title": "",
+    "items": [
+        {
+          "type": "button",
+          "content": "Wiki Page",
+          "url": "https://deadlock.wiki/Dynamo"
+        }
+      ]
+   },
+   "fathom": {
+    "title": "",
+    "items": [
+        {
+          "type": "button",
+          "content": "Wiki Page",
+          "url": "https://deadlock.wiki/Fathom"
+        }
+      ]
+   },
+   "fortuna": {
+    "title": "",
+    "items": []
+   },
+   "graf": {
+    "title": "",
+    "items": []
+   },
+   "grey talon": {
+    "title": "",
+    "items": [
+        {
+          "type": "button",
+          "content": "Wiki Page",
+          "url": "https://deadlock.wiki/Grey_Talon"
+        }
+      ]
+   },
+   "haze": {
+    "title": "",
+    "items": [
+        {
+          "type": "button",
+          "content": "Wiki Page",
+          "url": "https://deadlock.wiki/Haze"
+        }
+      ]
+   },
+   "holliday": {
+    "title": "",
+    "items": [
+        {
+          "type": "button",
+          "content": "Wiki Page",
+          "url": "https://deadlock.wiki/Holliday"
+        }
+      ]
+   },
+   "incubus": {
+    "title": "",
+    "items": []
+   },
+   "infernus": {
+    "title": "",
+    "items": [
+        {
+          "type": "button",
+          "content": "Wiki Page",
+          "url": "https://deadlock.wiki/Infernus"
+        }
+      ]
+   },
+   "ivy": {
+    "title": "",
+    "items": [
+        {
+          "type": "button",
+          "content": "Wiki Page",
+          "url": "https://deadlock.wiki/Ivy"
+        }
+      ]
+   },
+   "jake": {
+    "title": "",
+    "items": []
+   },
+   "kelvin": {
+    "title": "",
+    "items": [
+        {
+          "type": "button",
+          "content": "Wiki Page",
+          "url": "https://deadlock.wiki/Kelvin"
+        }
+      ]
+   },
+   "krill": {
+    "title": "",
+    "items": [
+        {
+          "type": "button",
+          "content": "Wiki Page",
+          "url": "https://deadlock.wiki/Mo_&_Krill"
+        }
+      ]
+   },
+   "lady geist": {
+    "title": "",
+    "items": [
+        {
+          "type": "button",
+          "content": "Wiki Page",
+          "url": "https://deadlock.wiki/Lady_Geist"
+        }
+      ]
+   },
+   "lash": {
+    "title": "",
+    "items": [
+        {
+          "type": "button",
+          "content": "Wiki Page",
+          "url": "https://deadlock.wiki/Lash"
+        }
+      ]
+   },
+   "magician": {
+    "title": "",
+    "items": [
+        {
+          "type": "button",
+      "content": "Wiki Page",
+      "url": "https://deadlock.wiki/Sinclair"
+      }
+    ]
+   },
+   "mcginnis": {
+    "title": "",
+    "items": [
+        {
+          "type": "button",
+          "content": "Wiki Page",
+          "url": "https://deadlock.wiki/McGinnis"
+        }
+      ]
+   },
+   "mina": {
+    "title": "",
+    "items": [
+        {
+          "type": "button",
+          "content": "Wiki Page",
+          "url": "https://deadlock.wiki/Mina"
+        }
+      ]
+   },
+   "mirage": {
+    "title": "",
+    "items": [
+        {
+          "type": "button",
+          "content": "Wiki Page",
+          "url": "https://deadlock.wiki/Mirage"
+        }
+      ]
+   },
+   "murphy": {
+    "title": "",
+    "items": []
+   },
+   "newscaster": {
+    "title": "",
+    "items": []
+   },
+   "operative": {
+    "title": "",
+    "items": []
+   },
+   "paige": {
+    "title": "",
+    "items": [
+        {
+          "type": "button",
+          "content": "Wiki Page",
+          "url": "https://deadlock.wiki/Paige"
+        }
+      ]
+   },
+   "paradox": {
+    "title": "",
+    "items": [
+        {
+          "type": "button",
+          "content": "Wiki Page",
+          "url": "https://deadlock.wiki/Paradox"
+        }
+      ]
+   },
+   "patron female": {
+    "title": "",
+    "items": []
+   },
+   "patron male": {
+    "title": "",
+    "items": []
+   },
+   "pocket": {
+    "title": "",
+    "items": [
+        {
+          "type": "button",
+          "content": "Wiki Page",
+          "url": "https://deadlock.wiki/Pocket"
+        }
+      ]
+   },
+   "priest": {
+    "title": "",
+    "items": []
+   },
+   "seven": {
+    "title": "",
+    "items": [
+        {
+          "type": "button",
+          "content": "Wiki Page",
+          "url": "https://deadlock.wiki/Seven"
+        }
+      ]
+   },
+   "shiv": {
+    "title": "",
+    "items": [
+        {
+          "type": "button",
+          "content": "Wiki Page",
+          "url": "https://deadlock.wiki/Shiv"
+        }
+      ]
+   },
+   "shopkeeper_hotdog": {
+    "title": "",
+    "items": []
+   },
+   "sinclair (henry)": {
+    "title": "",
+    "items": [
+        {
+          "type": "button",
+          "content": "Wiki Page",
+          "url": "https://deadlock.wiki/Sinclair"
+        }
+      ]
+   },
+   "sinclair (savannah)": {
+    "title": "",
+    "items": [
+        {
+          "type": "button",
+          "content": "Wiki Page",
+          "url": "https://deadlock.wiki/Sinclair"
+        }
+      ]
+   },
+   "skyrunner": {
+    "title": "",
+    "items": []
+   },
+   "spirit_jar": {
+    "title": "",
+    "items": []
+   },
+   "succubus": {
+    "title": "",
+    "items": []
+   },
+   "swan": {
+    "title": "",
+    "items": []
+   },
+   "trapper": {
+    "title": "",
+    "items": [
+        {
+          "type": "button",
+          "content": "Wiki Page",
+          "url": "https://deadlock.wiki/Trapper"
+        }
+      ]
+   },
+   "tvspirit": {
+    "title": "",
+    "items": []
+   },
+   "victor": {
+    "title": "",
+    "items": [
+        {
+          "type": "button",
+          "content": "Wiki Page",
+          "url": "https://deadlock.wiki/Victor"
+        }
+      ]
+   },
+   "vindicta": {
+    "title": "",
+    "items": [
+        {
+          "type": "button",
+          "content": "Wiki Page",
+          "url": "https://deadlock.wiki/Vindicta"
+        }
+      ]
+   },
+   "viper": {
+    "title": "",
+    "items": [
+        {
+          "type": "button",
+          "content": "Wiki Page",
+          "url": "https://deadlock.wiki/Vyper"
+        }
+      ]
+   },
+   "viscous": {
+    "title": "",
+    "items": [
+        {
+          "type": "button",
+          "content": "Wiki Page",
+          "url": "https://deadlock.wiki/Viscous"
+        }
+      ]
+   },
+   "warden": {
+    "title": "",
+    "items": [
+        {
+          "type": "button",
+          "content": "Wiki Page",
+          "url": "https://deadlock.wiki/Warden"
+        }
+      ]
+   },
+   "wraith": {
+    "title": "",
+    "items": [
+        {
+          "type": "button",
+          "content": "Wiki Page",
+          "url": "https://deadlock.wiki/Wraith"
+        }
+      ]
+   },
+   "wrecker": {
+    "title": "",
+    "items": [
+        {
+          "type": "button",
+          "content": "Wiki Page",
+          "url": "https://deadlock.wiki/Wrecker"
+        }
+      ]
+   },
+   "yamato": {
+    "title": "",
+    "items": [
+        {
+          "type": "button",
+          "content": "Wiki Page",
+          "url": "https://deadlock.wiki/Yamato"
+        }
+      ]
+   },
+   "celeste": {
+    "title": "",
+    "items": [
+        {
+          "type": "button",
+          "content": "Wiki Page",
+          "url": "https://deadlock.wiki/Celeste"
+        }
+      ]
+   },
+   "apollo": {
+    "title": "",
+    "items": [
+        {
+          "type": "button",
+          "content": "Wiki Page",
+          "url": "https://deadlock.wiki/Apollo"
+        }
+      ]
+   },
+   "graves": {
+    "title": "",
+    "items": [
+        {
+          "type": "button",
+          "content": "Wiki Page",
+          "url": "https://deadlock.wiki/Graves"
+        }
+      ]
+   },
+   "rem": {
+    "title": "",
+    "items": [
+        {
+          "type": "button",
+          "content": "Wiki Page",
+          "url": "https://deadlock.wiki/Rem"
+        }
+      ]
+   },
+   "silver": {
+    "title": "",
+    "items": [
+        {
+          "type": "button",
+          "content": "Wiki Page",
+          "url": "https://deadlock.wiki/Silver"
+        }
+      ]
+   },
+   "venator": {
+    "title": "",
+    "items": [
+        {
+          "type": "button",
+          "content": "Wiki Page",
+          "url": "https://deadlock.wiki/Venator"
+        }
+      ]
+   }
+
+
+  }

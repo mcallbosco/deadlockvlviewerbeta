@@ -1,0 +1,16 @@
+{
+  "meta": {
+    "language": "dutch",
+    "friendly_name": "Dutch",
+    "native_name": "Nederlands",
+    "country_code": "NL",
+    "flag_emoji": "🇳🇱",
+    "flag_emoji_unicode": "U+1F1F3 U+1F1F1",
+    "source_file": "citadel_generated_vo_dutch.txt",
+    "generated_at": "2026-07-06T17:25:10.238706",
+    "entry_count": 0,
+    "collision_count": 0,
+    "exact_override_count": 0
+  },
+  "lines": {}
+}

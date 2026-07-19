@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "language": "polish",
+    "friendly_name": "Polish",
+    "native_name": "Polski",
+    "country_code": "PL",
+    "flag_emoji": "🇵🇱",
+    "flag_emoji_unicode": "U+1F1F5 U+1F1F1",
+    "source_file": "citadel_generated_vo_polish.txt",
+    "generated_at": "2026-07-06T17:25:11.160418",
+    "entry_count": 2,
+    "collision_count": 0,
+    "exact_override_count": 0
+  },
+  "lines": {
+    "necro_ping_ability4_almost_ready": "Dekret prawie gotowy",
+    "necro_ping_ability4_not_ready": "Pozagrobowy Dekret nie jest gotowy"
+  }
+}

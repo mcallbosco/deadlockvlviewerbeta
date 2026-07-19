@@ -1,0 +1,16 @@
+{
+  "meta": {
+    "language": "finnish",
+    "friendly_name": "Finnish",
+    "native_name": "Suomi",
+    "country_code": "FI",
+    "flag_emoji": "🇫🇮",
+    "flag_emoji_unicode": "U+1F1EB U+1F1EE",
+    "source_file": "citadel_generated_vo_finnish.txt",
+    "generated_at": "2026-07-06T17:25:10.442478",
+    "entry_count": 0,
+    "collision_count": 0,
+    "exact_override_count": 0
+  },
+  "lines": {}
+}

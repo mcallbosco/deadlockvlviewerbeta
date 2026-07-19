@@ -1,0 +1,17 @@
+[
+  {
+    "from": "/characters/magician/",
+    "to": "/characters/sinclair/",
+    "label": "Corrected URL for Sinclair's character page"
+  },
+  {
+    "from": "/characters/viper/",
+    "to": "/characters/vyper/",
+    "label": "Corrected URL for Vyper's character page"
+  },
+  {
+    "from": "/characters/krill/",
+    "to": "/characters/mo&krill/",
+    "label": "Corrected URL for Mo & Krill's character page"
+  }
+]

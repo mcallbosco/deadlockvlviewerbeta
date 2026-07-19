@@ -1,0 +1,16 @@
+{
+  "meta": {
+    "language": "romanian",
+    "friendly_name": "Romanian",
+    "native_name": "Română",
+    "country_code": "RO",
+    "flag_emoji": "🇷🇴",
+    "flag_emoji_unicode": "U+1F1F7 U+1F1F4",
+    "source_file": "citadel_generated_vo_romanian.txt",
+    "generated_at": "2026-07-06T17:25:11.162112",
+    "entry_count": 0,
+    "collision_count": 0,
+    "exact_override_count": 0
+  },
+  "lines": {}
+}
