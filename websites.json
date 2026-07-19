@@ -1,0 +1,23 @@
+{
+    "websites": [
+        {
+        "Game Name": "Deadlock",
+        "url": "deadlock.vlviewer.com",
+        "description": "Valves's latest MOBA Shooter Hybrid.",
+        "icon": "Games/Deadlock/Icons/deadlock.png"
+        },
+        {
+        "name": "Overwatch",
+        "url": "overwatch.vlviewer.com",
+        "description": "Blizzards long running team shooter.",
+        "icon": "Games/Overwatch/Icons/OverwatchIcon.png"
+        },
+        {
+            "name": "Apex Legends",
+            "url": "apex.vlviewer.com",
+            "description": "Respawn's battle royale shooter.",
+            "icon": "Games/Apex/Icons/apex.png"
+        }
+        
+    ]
+}
